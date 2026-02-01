@@ -17,6 +17,6 @@ execute:
   error: false
 
 redivis:
-  user: candice_koolhaas001
-  dataset: test_mb4
-  table: clean_data
+  user: datapages
+  dataset: many_babies_1
+  table: 02_validated_output
