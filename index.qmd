@@ -6,9 +6,12 @@ description: |
 ---
 
 ::: {layout-ncol=2}
-![Artwork by \@allison_horst](images/lter_penguins.png)
 
-![](images/culmen_depth.png)
+```{r simple histogram}
+project <- redivis::user("datapages")$project("many_babies_1")
+mb_table <- project$table("02_validated_output")$to_tibble()
+hist(mb_table$age_days)
+```
 :::
 
 {{< include _load-data.qmd >}}
