@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://candicekoolhaas.github.io/datapage_test2/index.html</loc>
-    <lastmod>2026-02-05T10:18:10.905Z</lastmod>
-  </url>
-  <url>
-    <loc>https://candicekoolhaas.github.io/datapage_test2/analysis.html</loc>
-    <lastmod>2026-02-05T09:55:02.919Z</lastmod>
-  </url>
-  <url>
     <loc>https://candicekoolhaas.github.io/datapage_test2/about.html</loc>
-    <lastmod>2026-02-05T09:55:02.917Z</lastmod>
+    <lastmod>2026-02-24T09:33:04.971Z</lastmod>
   </url>
   <url>
     <loc>https://candicekoolhaas.github.io/datapage_test2/data.html</loc>
-    <lastmod>2026-02-05T09:55:02.924Z</lastmod>
+    <lastmod>2026-02-24T09:33:04.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://candicekoolhaas.github.io/datapage_test2/analysis.html</loc>
+    <lastmod>2026-02-24T09:33:04.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://candicekoolhaas.github.io/datapage_test2/index.html</loc>
+    <lastmod>2026-02-24T09:33:04.979Z</lastmod>
   </url>
 </urlset>
